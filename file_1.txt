@@ -1,4 +1,7 @@
 Riday is july first
+*********************
+To Merge from Mohamed Shafi
+*********************
 This is git class.
 And it is from TechU.
 And training is going great.
