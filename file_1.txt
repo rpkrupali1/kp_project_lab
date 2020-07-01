@@ -1,0 +1,3 @@
+This is git class.
+And it is from TechU.
+And training is going great.
